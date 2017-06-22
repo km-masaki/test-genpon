@@ -1,8 +1,9 @@
-�e�X�gBB�Q�O�P.txt
+テストBB＿０１.txt
 
-�N���[���[BB
-�J����BB�ɂč쐬
-
-
+クローンーBB
+開発者BBにて作成
 
 
+
+dev-masterを直接更新
+・・・競合！！
